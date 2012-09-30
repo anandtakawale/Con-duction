@@ -5,6 +5,6 @@ T_left=20 //left temperature of plate
 T_right=50 //right temperature of plate
 //grid size
 nx=10
-ny=10
+ny=25
 //accuracy required
-acc=0.001
+acc=0.0001
